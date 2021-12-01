@@ -11,8 +11,8 @@ python main.py
 ```
 Then just type the options you want to choose.
 
-## <div style='color: lightblue' align=center>Coming soon!</div>
+## <div style='color: lightblue' align=center>Coming soon! *maybe*</div>
 ```
 1. Saving to an .txt file
-2. Coloring? *maybe*
+2. Coloring?
 ```
